@@ -1,7 +1,6 @@
 # 👋 Hello, World! I'm [Your Name]
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow&style=social)](https://twitter.com/yourhandle)
+[![GitHub followers](https://img.shields.io/github/followers/rpalmr?label=Follow&style=social)](https://github.com/rpalmr)
 
 Welcome to my GitHub playground! I'm passionate about [your interests and skills] and constantly exploring new technologies. Here, you'll find a mix of personal projects, open-source contributions, and experiments.
 
