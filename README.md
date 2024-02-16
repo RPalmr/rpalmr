@@ -32,8 +32,8 @@ I'm currently diving deeper into [current learning focus] and exploring [excitin
 - 💻 [Your Total Contributions](https://github.com/rpalmr)
 - ⭐ [Number of Stars Received](https://github.com/yourusername)
 - 📦 [Top Repositories](https://github.com/yourusername)
-- 🚀 [Contributions Graph](https://github.com/yourusername)
+- 🚀 [Contributions Graph](https://github.com/rpalmr)
 
-![Your GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![Your GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=rpalmr&theme=dark)
 
 Feel free to explore my repositories, open issues, and contribute. Let's collaborate and build something amazing together! 🚀
