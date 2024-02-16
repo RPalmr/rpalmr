@@ -29,7 +29,7 @@ I'm currently diving deeper into [current learning focus] and exploring [excitin
 
 - ## 🏆 GitHub Awards
 
-- 💻 [Your Total Contributions](https://github.com/yourusername)
+- 💻 [Your Total Contributions](https://github.com/rpalmr)
 - ⭐ [Number of Stars Received](https://github.com/yourusername)
 - 📦 [Top Repositories](https://github.com/yourusername)
 - 🚀 [Contributions Graph](https://github.com/yourusername)
