@@ -30,8 +30,8 @@ I'm currently diving deeper into [current learning focus] and exploring [excitin
 - ## 🏆 GitHub Awards
 
 - 💻 [Your Total Contributions](https://github.com/rpalmr)
-- ⭐ [Number of Stars Received](https://github.com/yourusername)
-- 📦 [Top Repositories](https://github.com/yourusername)
+- ⭐ [Number of Stars Received](https://github.com/rpalmr)
+- 📦 [Top Repositories](https://github.com/rpalmr)
 - 🚀 [Contributions Graph](https://github.com/rpalmr)
 
 ![Your GitHub Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=rpalmr&theme=dark)
